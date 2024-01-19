@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['dataset_103',['DataSet',['../d1/d73/structnebula_1_1DataSet.html',1,'nebula']]],
-  ['date_104',['Date',['../dc/ddd/structnebula_1_1Date.html',1,'nebula']]],
-  ['datetime_105',['DateTime',['../d1/d12/structnebula_1_1DateTime.html',1,'nebula']]],
-  ['duration_106',['Duration',['../d2/d3e/structnebula_1_1Duration.html',1,'nebula']]]
+  ['edge_103',['Edge',['../dc/d0c/structnebula_1_1Edge.html',1,'nebula']]],
+  ['equal_5fto_3c_20nebula_3a_3avalue_20_2a_20_3e_104',['equal_to&lt; nebula::Value * &gt;',['../d0/db3/structstd_1_1equal__to_3_01nebula_1_1Value_01_5_01_4.html',1,'std']]],
+  ['executionresponse_105',['ExecutionResponse',['../d7/dfd/structnebula_1_1ExecutionResponse.html',1,'nebula']]]
 ];

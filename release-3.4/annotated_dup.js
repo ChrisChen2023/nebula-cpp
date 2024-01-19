@@ -41,11 +41,6 @@ var annotated_dup =
       [ "Promise", "de/d43/classfolly_1_1Promise.html", null ]
     ] ],
     [ "nebula", null, [
-      [ "geo", null, [
-        [ "ByteOrderDataOutStream", "df/d04/classnebula_1_1geo_1_1ByteOrderDataOutStream.html", "df/d04/classnebula_1_1geo_1_1ByteOrderDataOutStream" ],
-        [ "WKBWriter", "d5/dfa/classnebula_1_1geo_1_1WKBWriter.html", "d5/dfa/classnebula_1_1geo_1_1WKBWriter" ],
-        [ "WKTWriter", "d1/d59/classnebula_1_1geo_1_1WKTWriter.html", "d1/d59/classnebula_1_1geo_1_1WKTWriter" ]
-      ] ],
       [ "thrift", null, [
         [ "ThriftClientManager", "d1/dd5/classnebula_1_1thrift_1_1ThriftClientManager.html", null ]
       ] ],

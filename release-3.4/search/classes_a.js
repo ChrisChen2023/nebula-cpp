@@ -1,13 +1,11 @@
 var searchData=
 [
-  ['pair_134',['Pair',['../dc/dc4/structnebula_1_1Pair.html',1,'nebula']]],
-  ['pair_5fhash_135',['pair_hash',['../d0/d9d/structpair__hash.html',1,'']]],
-  ['path_136',['Path',['../d2/daa/structnebula_1_1Path.html',1,'nebula']]],
-  ['plandescription_137',['PlanDescription',['../dd/d48/structnebula_1_1PlanDescription.html',1,'nebula']]],
-  ['plannodebranchinfo_138',['PlanNodeBranchInfo',['../df/d74/structnebula_1_1PlanNodeBranchInfo.html',1,'nebula']]],
-  ['plannodedescription_139',['PlanNodeDescription',['../db/d4e/structnebula_1_1PlanNodeDescription.html',1,'nebula']]],
-  ['point_140',['Point',['../d2/d09/structnebula_1_1Point.html',1,'nebula']]],
-  ['polygon_141',['Polygon',['../d3/daf/structnebula_1_1Polygon.html',1,'nebula']]],
-  ['profilingstats_142',['ProfilingStats',['../dc/de2/structnebula_1_1ProfilingStats.html',1,'nebula']]],
-  ['promise_143',['Promise',['../de/d43/classfolly_1_1Promise.html',1,'folly']]]
+  ['scanedgeiter_140',['ScanEdgeIter',['../de/d5a/structnebula_1_1ScanEdgeIter.html',1,'nebula']]],
+  ['sconfig_141',['SConfig',['../d5/d04/structnebula_1_1SConfig.html',1,'nebula']]],
+  ['session_142',['Session',['../de/db8/classnebula_1_1Session.html',1,'nebula']]],
+  ['sessionpool_143',['SessionPool',['../d4/d73/classnebula_1_1SessionPool.html',1,'nebula']]],
+  ['sessionpoolconfig_144',['SessionPoolConfig',['../d8/da6/structnebula_1_1SessionPoolConfig.html',1,'nebula']]],
+  ['set_145',['Set',['../da/d7f/structnebula_1_1Set.html',1,'nebula']]],
+  ['step_146',['Step',['../d9/dc5/structnebula_1_1Step.html',1,'nebula']]],
+  ['storageclient_147',['StorageClient',['../d4/d70/classnebula_1_1StorageClient.html',1,'nebula']]]
 ];
