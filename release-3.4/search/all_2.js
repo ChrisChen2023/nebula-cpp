@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['errmessage_4',['errMessage',['../df/dc1/classnebula_1_1NebulaConnectionErrMessageCallback.html#a116739751d8abe8586c68af3ae350d87',1,'nebula::NebulaConnectionErrMessageCallback']]],
-  ['errmessageerror_5',['errMessageError',['../df/dc1/classnebula_1_1NebulaConnectionErrMessageCallback.html#a6b638f6fd884fc62fb1d7b923976a5be',1,'nebula::NebulaConnectionErrMessageCallback']]]
+  ['config_2',['Config',['../d7/d03/structnebula_1_1Config.html',1,'nebula']]],
+  ['connection_3',['Connection',['../d8/d5c/classnebula_1_1Connection.html',1,'nebula']]],
+  ['connectionpool_4',['ConnectionPool',['../d5/df2/classnebula_1_1ConnectionPool.html',1,'nebula']]],
+  ['coordinate_5',['Coordinate',['../d8/d98/structnebula_1_1Coordinate.html',1,'nebula']]],
+  ['cpp2ops_6',['Cpp2Ops',['../df/d62/classapache_1_1thrift_1_1Cpp2Ops.html',1,'apache::thrift']]]
 ];

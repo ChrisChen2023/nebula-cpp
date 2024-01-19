@@ -27,12 +27,7 @@ var NAVTREE =
   [ "NebulaGraph CPP Client", "index.html", [
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ]
-      ] ]
+      [ "Class Index", "classes.html", null ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ]
@@ -42,7 +37,10 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"annotated.html",
+"d2/daa/structnebula_1_1Value.html#a8f97e71f2831930c9ed51755f0fea0be",
+"d6/dd6/structnebula_1_1List.html#a5781951edea4c4f3eb9be9a15c11d9b6",
+"dd/d48/structnebula_1_1PlanDescription.html#a15d656c661a326aeaba64e8275febc7e"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

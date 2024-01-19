@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['sessionpooltest_14',['SessionPoolTest',['../db/de0/classSessionPoolTest.html',1,'']]],
-  ['sessiontest_15',['SessionTest',['../d3/d09/classSessionTest.html',1,'']]]
+  ['dataset_103',['DataSet',['../d1/d73/structnebula_1_1DataSet.html',1,'nebula']]],
+  ['date_104',['Date',['../dc/ddd/structnebula_1_1Date.html',1,'nebula']]],
+  ['datetime_105',['DateTime',['../d1/d12/structnebula_1_1DateTime.html',1,'nebula']]],
+  ['duration_106',['Duration',['../d2/d3e/structnebula_1_1Duration.html',1,'nebula']]]
 ];
