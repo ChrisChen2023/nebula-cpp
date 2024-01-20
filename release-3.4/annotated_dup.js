@@ -2,38 +2,6 @@ var annotated_dup =
 [
     [ "apache", null, [
       [ "thrift", null, [
-        [ "detail", null, [
-          [ "TccStructTraits< nebula::DataSet >", "dd/db8/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1DataSet_01_4.html", null ],
-          [ "TccStructTraits< nebula::Date >", "da/d9c/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Date_01_4.html", null ],
-          [ "TccStructTraits< nebula::Time >", "d5/d9f/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Time_01_4.html", null ],
-          [ "TccStructTraits< nebula::DateTime >", "da/d71/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1DateTime_01_4.html", null ],
-          [ "TccStructTraits< nebula::Duration >", "d4/d98/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Duration_01_4.html", null ],
-          [ "TccStructTraits< nebula::Edge >", "d0/dd9/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Edge_01_4.html", null ],
-          [ "TccStructTraits< nebula::Coordinate >", "d6/db5/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Coordinate_01_4.html", null ],
-          [ "TccStructTraits< nebula::Point >", "dd/dea/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Point_01_4.html", null ],
-          [ "TccStructTraits< nebula::LineString >", "d5/da0/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1LineString_01_4.html", null ],
-          [ "TccStructTraits< nebula::Polygon >", "d3/d05/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Polygon_01_4.html", null ],
-          [ "TccStructTraits< nebula::Geography >", "d8/de5/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Geography_01_4.html", null ],
-          [ "TccStructTraits< nebula::HostAddr >", "d3/d06/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1HostAddr_01_4.html", null ],
-          [ "TccStructTraits< nebula::KeyValue >", "de/d6e/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1KeyValue_01_4.html", null ],
-          [ "TccStructTraits< nebula::List >", "d1/d84/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1List_01_4.html", null ],
-          [ "TccStructTraits< nebula::Map >", "da/d7a/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Map_01_4.html", null ],
-          [ "TccStructTraits< nebula::Step >", "d4/d0e/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Step_01_4.html", null ],
-          [ "TccStructTraits< nebula::Path >", "d1/df5/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Path_01_4.html", null ],
-          [ "TccStructTraits< nebula::Set >", "d2/d0e/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Set_01_4.html", null ],
-          [ "TccStructTraits< nebula::Value >", "dc/d5b/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Value_01_4.html", null ],
-          [ "TccStructTraits< nebula::Tag >", "d4/d4b/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Tag_01_4.html", null ],
-          [ "TccStructTraits< nebula::Vertex >", "d6/d81/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Vertex_01_4.html", null ],
-          [ "TccStructTraits< nebula::AuthResponse >", "d2/dc5/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1AuthResponse_01_4.html", null ],
-          [ "TccStructTraits<::nebula::ExecutionResponse >", "d0/d76/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_1_1nebula_1_1ExecutionResponse_01_4.html", null ],
-          [ "TccStructTraits< nebula::Pair >", "d7/d78/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1Pair_01_4.html", null ],
-          [ "TccStructTraits<::nebula::PlanDescription >", "d5/d02/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_1_1nebula_1_1PlanDescription_01_4.html", null ],
-          [ "TccStructTraits< nebula::PlanNodeBranchInfo >", "d8/d9e/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1PlanNodeBranchInfo_01_4.html", null ],
-          [ "TccStructTraits<::nebula::PlanNodeDescription >", "db/d60/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_1_1nebula_1_1PlanNodeDescription_01_4.html", null ],
-          [ "TccStructTraits< nebula::ProfilingStats >", "db/dc6/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1ProfilingStats_01_4.html", null ],
-          [ "TccStructTraits< nebula::VerifyClientVersionReq >", "d2/d6a/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1VerifyClientVersionReq_01_4.html", null ],
-          [ "TccStructTraits< nebula::VerifyClientVersionResp >", "dd/dc6/structapache_1_1thrift_1_1detail_1_1TccStructTraits_3_01nebula_1_1VerifyClientVersionResp_01_4.html", null ]
-        ] ],
         [ "Cpp2Ops", "df/d62/classapache_1_1thrift_1_1Cpp2Ops.html", null ]
       ] ]
     ] ],
